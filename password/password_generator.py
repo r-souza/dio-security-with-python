@@ -1,4 +1,5 @@
-import random, string
+import random
+import string
 
 size = int(input("How many characters do you want your password to be? "))
 chars = string.ascii_letters + string.digits + '!@#$%^&*()-_=+'
